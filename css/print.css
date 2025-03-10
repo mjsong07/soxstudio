@@ -1,0 +1,42 @@
+#page-background {
+	display: none;
+}
+#page-background-top {
+	display: none;
+}
+#content aside .dd-container {
+	display: none;
+}
+#content aside form {
+	display: none;
+}
+#content aside .social-list {
+	display: none;
+}
+#prev-next {
+	display: none;
+}
+#comments-wrapper .col-sm-4 {
+	display: none;
+}
+#contact {
+	display: none;
+}
+#footer .row {
+	display: none;
+}
+#footer #copyright {
+	display: block;
+}
+header.container {
+	margin-top: 10px;
+}
+header.container .col-md-12 h2 {
+	font-size: 48px !important;
+}
+.print {
+	display: block;
+}
+.print-logo {
+	width: 200px; height: auto; margin-top: 0px; margin-left: 15px;
+}
